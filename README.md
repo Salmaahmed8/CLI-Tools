@@ -10,5 +10,6 @@ After installing the tool, you can use the following commands:
 
 1. **Add a new course**: courses-manager add
 
-This command will prompt you to enter the course title and price.
+This command will prompt you to enter the course title and price:
+
 2. **List all courses**: courses-manager list
